@@ -1,0 +1,22 @@
+{
+  "name": "systeminfoapp",
+  "version": "1.0.0",
+  "description": "Basic System Info Desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mleeps/systemInfoApp.git"
+  },
+  "author": "Mark Leeper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mleeps/systemInfoApp/issues"
+  },
+  "homepage": "https://github.com/mleeps/systemInfoApp#readme",
+  "dependencies": {
+    "electron": "^4.0.5"
+  }
+}
